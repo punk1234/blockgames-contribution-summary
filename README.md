@@ -33,7 +33,7 @@ https://github.com/prince-curie/vigilant-octo-fiesta/pull/22
 ```
 
 ### TASK 3 (Contributions)
-- [chore] setup basic smart-contract app
+- [chore] setup basic smart-contract app & updated readme file
 ```
 https://github.com/punk1234/zuri-school-election-dapp/pull/1
 ```
@@ -52,6 +52,12 @@ https://github.com/punk1234/zuri-school-election-dapp/pull/7
 - [feat] partial smart-contract
 ```
 https://github.com/punk1234/zuri-school-election-dapp/pull/6
+
+Implemented _initializeStakeholdersVoteWeight, _addVoter, _isVoter, 
+addStudent, _initializeStakeholdersVoteWeight
+
+Tested deployment of contract, createElection, startElection, stopElection 
+and making sure they emit the right event
 ```
 
 - [refactor] smart-contract
@@ -63,8 +69,11 @@ https://github.com/punk1234/zuri-school-election-dapp/pull/15
 
 - [tests] smart-contract
 ```
+https://github.com/punk1234/zuri-school-election-dapp/pull/23
 ```
 
-- [feat] added student component (front-end)
+- [feat] added student & profile component (front-end)
 ```
+https://github.com/punk1234/zuri-school-election-dapp/pull/15
+https://github.com/punk1234/zuri-school-election-dapp/pull/21
 ```
